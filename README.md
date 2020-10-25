@@ -1,5 +1,10 @@
 # Joint.Logging
 
+| Branch  | Build status                                                                                                                 |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.Logging.svg?branch=master)](https://travis-ci.org/flapek/Joint.Logging)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.Logging.svg?branch=develop)](https://travis-ci.org/flapek/Joint.Logging) |
+
 ## Logging
 
 Adds the logging capability, by default uses [Serilog](https://serilog.net/) for logging with 3 optional extensions (sinks):
